@@ -15,14 +15,14 @@ A modern, full-stack todo list application built with React, Apollo Client, Node
       <b>GraphQL ToDo List</b>
     </td>
     <td align="center">
-      <img src="https://github.com/ArijitDutta96395/Another-Repo/blob/main/image2.png?raw=true" alt="Project 2" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/ArijitDutta96395/Another-Repo/blob/main/pic2.png?raw=true" alt="Project 2" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Second Project Name</b>
+      <b>Apollo Backend</b>
     </td>
     <td align="center">
-      <img src="https://github.com/ArijitDutta96395/Third-Repo/blob/main/image3.png?raw=true" alt="Project 3" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/ArijitDutta96395/Third-Repo/blob/main/pic3.png?raw=true" alt="Project 3" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Third Project Name</b>
+      <b>API Calls</b>
     </td>
   </tr>
 </table>
