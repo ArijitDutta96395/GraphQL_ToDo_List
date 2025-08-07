@@ -1,0 +1,119 @@
+.app-container {
+  min-height: 100vh;
+  background: #f5f7fa;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #2d3748;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #2c5282;
+}
+
+.app-header p {
+  color: #4a5568;
+  margin-top: 8px;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.table-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.todos-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.todos-table th,
+.todos-table td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.todos-table th {
+  background: #f8fafc;
+  font-weight: 600;
+  color: #4a5568;
+}
+
+.todos-table tr:hover {
+  background: #f8fafc;
+}
+
+.status-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  font-size: 14px;
+}
+
+.status-dot.completed {
+  background: #c6f6d5;
+  color: #2f855a;
+}
+
+.status-dot.pending {
+  background: #fed7d7;
+  color: #c53030;
+}
+
+tr.completed {
+  background: #f0fff4;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #2d3748;
+}
+
+.loading-spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #f3f3f3;
+  border-top: 5px solid #3498db;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error-container {
+  text-align: center;
+  padding: 40px;
+  color: #c53030;
+  background: #fff5f5;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.error-container h2 {
+  margin-top: 0;
+}
