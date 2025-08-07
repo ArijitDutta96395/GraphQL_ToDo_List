@@ -5,6 +5,28 @@ A modern, full-stack todo list application built with React, Apollo Client, Node
 ![GraphQL Todo List](https://img.shields.io/badge/GraphQL-Todo%20List-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Project Previews
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ArijitDutta96395/GraphQL_ToDo_List/blob/main/pic1.png?raw=true" alt="Project 1" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
+      <br/><br/>
+      <b>GraphQL ToDo List</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ArijitDutta96395/Another-Repo/blob/main/image2.png?raw=true" alt="Project 2" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
+      <br/><br/>
+      <b>Second Project Name</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ArijitDutta96395/Third-Repo/blob/main/image3.png?raw=true" alt="Project 3" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
+      <br/><br/>
+      <b>Third Project Name</b>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Features
 
 - **Real-time Todo Management**: View and manage todos with their completion status
